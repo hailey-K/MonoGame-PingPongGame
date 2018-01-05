@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/images/Ball.png</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/images/BatLeft.png</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/images/BatRight.png</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/images/Scorebar.png</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/sounds/applause1.wav</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/sounds/click.wav</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/sounds/ding.wav</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/leftScoreLabel.spritefont</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/rightScoreLabel.spritefont</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/leftNameLabel.spritefont</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/rightNameLabel.spritefont</File>
+    <File>C:/Users/RIM/Documents/MonoGame-PingPongGame/HKCMAssignment4/HKCMAssignment4/Content/winner.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
